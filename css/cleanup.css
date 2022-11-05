@@ -1,1 +1,33 @@
 /* write your override styles here */
+background {
+    display:none
+}
+color {
+    display:none
+}
+#tag-1 {
+    display:none
+}
+#tag-2 {
+    display:none
+}
+#wall {
+    color: aquamarine;
+}
+.parent {
+    text-shadow: 9px;
+    color: blanchedalmond;
+}
+#tag-3 {
+    display:none
+}
+#tag-4 {
+    display:none
+}
+#tag-5 {
+    display:none
+}
+#tag-6 {
+    display:none
+}
+
